@@ -1,6 +1,4 @@
-import os
 import requests
-import threading
 import time
 
 
@@ -41,4 +39,5 @@ def do_req(url_safe, threadnum):
     
 
 do_req(url_safe, 1)
+
 
