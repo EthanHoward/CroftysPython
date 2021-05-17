@@ -1,2 +1,3 @@
 # CroftysPython
-Python Repository Funny Python Haha 
+> Python Repository Funny Python Haha 
+> Funny Monkey 
